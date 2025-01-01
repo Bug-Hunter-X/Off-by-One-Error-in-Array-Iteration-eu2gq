@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java. The `Bug.java` file contains code that attempts to sum the elements of an array. However, due to an error in the loop condition, it results in an `ArrayIndexOutOfBoundsException`. The `BugSolution.java` file provides the corrected version of the code.
